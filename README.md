@@ -4,7 +4,7 @@
 
 ### *An Infinite, Interactive Geometric Art & Sacred Geometry Simulator*
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://your-deployment.vercel.app)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://mandala-studio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-malikarslanasif131-181717?style=for-the-badge&logo=github)](https://github.com/malikarslanasif131?tab=repositories)
 [![License](https://img.shields.io/badge/License-MIT-b87fff?style=for-the-badge)](LICENSE)
 [![HTML](https://img.shields.io/badge/Built%20With-Vanilla%20HTML%2FJS-ff9de2?style=for-the-badge&logo=html5)](index.html)
